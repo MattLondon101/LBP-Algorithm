@@ -5,7 +5,7 @@ Amazon and many other companies use the Island Count Question in their coding in
 How many islands are there? And, how many islands are there when diagonal land connections are invalid?
 </p>
 <p align="center">
-  <img width="300" height="130" src="https://github.com/MattLondon101/Images/blob/master/Islands.png"
+  <img width="500" height="200" src="https://github.com/MattLondon101/Images/blob/master/Islands.png"
 </p>
 
 
