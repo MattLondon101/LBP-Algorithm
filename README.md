@@ -13,4 +13,4 @@ Amazon and many other companies use the Island Count Question in their coding in
   
 By converting the matrix, which typically comrpises 0 = water, 1 = land, to a set, then traversing each index in such a way the indices diagnonal to the current index are skipped. The traversal method is also implemented in local binary pattern algorithms, which are commonly used in image classification for computer vision. The file LBP.py generated a standardized value for a 3x3 kernel in a matrix.
 
-<p align="center"> <img width="1000" height="300" src="https://github.com/MattLondon101/Images/blob/master/LBP.png" </p>
+<p align="center"> <img width="1000" height="200" src="https://github.com/MattLondon101/Images/blob/master/LBP.png" </p>
