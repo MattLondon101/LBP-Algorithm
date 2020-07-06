@@ -48,7 +48,8 @@ class Islander(object):
             return
 
         x, y = coordinates
-        # traverse horizontal and vertical
+        # Traverse horizontal and vertical
+        # Also used for local binary patterns (LBP)
         self.remove_island((x - 1, y))
         self.remove_island((x + 1, y))
         self.remove_island((x, y - 1))
