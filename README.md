@@ -4,9 +4,9 @@ Amazon and many other companies use the Island Count Question in their coding in
 
 ### How many islands are there? And, how many islands are there when diagonal land connections are invalid? ###
 <p align="center">
-  <img width="600" height="260" src="https://github.com/MattLondon101/Images/blob/master/Islands.png"
+  <img width="500" height="260" src="https://github.com/MattLondon101/Images/blob/master/Islands.png"
 </p>
 
 
 #### Depth-first search (DFS) and Breadth-first search can easily solve the first question. Yet, it is not so easy when tackling the second ####
-<p align="center"> <img width="580" height="400" src="https://github.com/MattLondon101/Images/blob/master/DFS_BFS.png" </p>
+<p align="center"> <img width="700" height="400" src="https://github.com/MattLondon101/Images/blob/master/DFS_BFS.png" </p>
