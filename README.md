@@ -8,3 +8,5 @@ Amazon and many other companies use the Island Count Question in their coding in
 </p>
 
 
+#### Depth-first search (DFS) and Breadth-first search can easily solve the first question. Yet, it is not so easy when tackling the second ####
+<p align="center"> <img width="580" height="400" src="https://github.com/MattLondon101/Images/blob/master/DFS_BFS.png" </p>
