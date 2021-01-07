@@ -1,7 +1,7 @@
 '''
 Islander: 
 This algorithm converts grid to set, then conducts horizontal and vertical index traversal.
-This is more efficient than DFS and it will not classify diagonal land connections at valid connections
+This is more efficient than DFS and it will not classify diagonal land connections as valid connections
 '''
 # Time Complexity: O(n)
 from textwrap import dedent # dedent to remove possible whitespace
